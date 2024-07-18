@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Food Delivery Time Prediction</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        h3 {
-            font-family: Arial, sans-serif;
-            color: blue;
-        }
-        p {
-            color: black;
-        }
-    </style>
+
 </head>
 <body>
     <table>
@@ -36,4 +21,3 @@
         If the order is complete, a partner will pick up and deliver the meal to the given address via a delivery service. In online food-ordering businesses, delivery time is critical. As a result, estimated food delivery time prediction to reach the buyer’s location is critical.
     </p>
 </body>
-</html>
