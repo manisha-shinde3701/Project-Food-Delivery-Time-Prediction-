@@ -29,7 +29,7 @@
     <h2 class="subtitle">General Info</h2>
     <div class="container">
         <div class="image-container">
-            <img src="https://github.com/user-attachments/assets/ee42d834-7bbd-48d2-9d0a-4708a2d74c82
+            <img src="C:\Users\Manis\Pictures\Screenshots\Screenshot 2024-07-18 145606.png"
 " alt="food_delivery_data_info" width="400">
         </div>
         <div class="text-container">
