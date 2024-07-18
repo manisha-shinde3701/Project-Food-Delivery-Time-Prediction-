@@ -24,23 +24,23 @@
 
 
 
-<body>
-    <h1 class="title">Data Preparation</h1>
-    <h2 class="subtitle">General Info</h2>
-    <div class="container">
-        <div class="image-container">
-            <img src="C:\Users\Manis\Pictures\Screenshots\Screenshot 2024-07-18 145606.png"
-" alt="food_delivery_data_info" width="400">
-        </div>
-        <div class="text-container">
-            <ul>
-                <li>Dataset consists of 11397 rows and 20 columns. Then the dataset also consists of 5 numerical data and 15 categorical data.</li>
-                <li>The problem faced is a regression problem, namely predicting the time needed to deliver food (Time taken).</li>
-                <li>There are no missing values, duplicated values, and odd data in this dataset.</li>
-                <li>All numerical values contained in the dataset are quite reasonable.</li>
-            </ul>
-        </div>
-    </div>
-</body>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/NelQ7o18V3W3EOJk5GOF91ID" alt="Data Preparation" width="400">
+    </td>
+    <td>
+      <h1>Data Preparation</h1>
+      <h2>General Info</h2>
+      <ul>
+        <li>Dataset consists of 11397 rows and 20 columns. Then the dataset also consists of 5 numerical data and 15 categorical data</li>
+        <li>The problem faced is a regression problem, namely predicting the time needed to deliver food (Time taken)</li>
+        <li>There are no missing values, duplicated values, and odd data in this dataset</li>
+        <li>All numerical values contained in the dataset are quite reasonable</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
