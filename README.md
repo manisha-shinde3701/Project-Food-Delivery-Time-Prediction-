@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/NelQ7o18V3W3EOJk5GOF91ID" alt="Data Preparation" width="400">
+      <img src="https://github.com/user-attachments/assets/a1e52f9f-77bb-49c1-af99-01db14f0e287" alt="Data Preparation" width="400">
     </td>
     <td>
       <h1>Data Preparation</h1>
@@ -41,6 +41,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
